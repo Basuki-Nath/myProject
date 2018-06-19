@@ -5,7 +5,7 @@
 				"age": 26,
 				"sex": "Male",
 				"designation": "Software Developer",
-				"image": "https://www.dropbox.com/personal?preview=boys.jpg"
+				"image": "https://github.com/Basuki-Nath/myProject/blob/master/boys.jpg"
 			},
 			{			
 				"id": 2,
@@ -13,7 +13,7 @@
 				"age": 26,
 				"sex": "Male",
 				"designation": "Web Designer",
-				"image": "https://www.dropbox.com/personal?preview=boys.jpg"
+				"image": "https://github.com/Basuki-Nath/myProject/blob/master/boys.jpg"
 		},
 		{
 				"id": 3,
@@ -21,7 +21,7 @@
 				"age": 25,
 				"sex": "Female",
 				"designation": "Software Developer",
-				"image": "https://www.dropbox.com/home?preview=girl.jpg"	
+				"image": "https://github.com/Basuki-Nath/myProject/blob/master/girl.jpg"	
 		}, {
 			
 				"id": 4,
@@ -29,7 +29,7 @@
 				"age": 26,
 				"sex": "Female",
 				"designation": "Software Developer",
-				"image": "https://www.dropbox.com/home?preview=girl.jpg"
+				"image": "https://github.com/Basuki-Nath/myProject/blob/master/girl.jpg"
 			
 		}, {
 			
@@ -38,7 +38,7 @@
 				"age": 26,
 				"sex": "male",
 				"designation": "Software Developer",
-				"image": "https://www.dropbox.com/personal?preview=boys.jpg"
+				"image": "https://github.com/Basuki-Nath/myProject/blob/master/boys.jpg"
 			
 		},
 		{
@@ -48,7 +48,7 @@
 				"age": 26,
 				"sex": "male",
 				"designation": "Software Developer",
-				"image": "https://www.dropbox.com/personal?preview=boys.jpg"
+				"image": "https://github.com/Basuki-Nath/myProject/blob/master/boys.jpg"
 			
 		},
 		{
@@ -58,7 +58,7 @@
 				"age": 26,
 				"sex": "male",
 				"designation": "Software Developer",
-				"image": "https://www.dropbox.com/personal?preview=boys.jpg"
+				"image": "https://github.com/Basuki-Nath/myProject/blob/master/boys.jpg"
 			
 		},
 		{
@@ -68,7 +68,7 @@
 				"age": 26,
 				"sex": "male",
 				"designation": "Software Developer",
-				"image": "https://www.dropbox.com/personal?preview=boys.jpg"
+				"image": "https://github.com/Basuki-Nath/myProject/blob/master/boys.jpg"
 			
 		},
 		{
@@ -78,7 +78,7 @@
 				"age": 26,
 				"sex": "male",
 				"designation": "Software Developer",
-				"image": "https://www.dropbox.com/personal?preview=boys.jpg"
+				"image": "https://github.com/Basuki-Nath/myProject/blob/master/boys.jpg"
 			}
 	]
 }
